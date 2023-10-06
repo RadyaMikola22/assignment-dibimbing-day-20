@@ -1,5 +1,7 @@
 # Tugas Day 20 - Web Scrapping
 - Repository ini merupakan tugas dari dibimbing Day 20 - Web Scrapping
+- Terdapat 2 script yang saya buat dengan nama berita_properti_beautifulsoup (menggunakan beautiful soup) dan fullberita_properti_selenium (menggunakan selenium)
+- Terdapat script helper.py untuk menginisiasikan chromerdrivernya
 
 # Setup
 1. Create virtual environment using `pyenv virtualenv <python-version> <env-name>` or `python3 -m venv venv` (the simplest way).
