@@ -1,0 +1,6 @@
+.python-version
+__pycache__
+*.zip
+chrome*
+creds
+.DS_Store
