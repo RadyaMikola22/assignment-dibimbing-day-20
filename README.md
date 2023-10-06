@@ -1,6 +1,7 @@
 # Tugas Day 20 - Web Scrapping
 - Repository ini merupakan tugas dari dibimbing Day 20 - Web Scrapping
 - Terdapat 2 script yang saya buat dengan nama berita_properti_beautifulsoup (menggunakan beautiful soup) dan fullberita_properti_selenium (menggunakan selenium)
+- Terdapat file docs Screenshot postgres yang berisi screenshot mengenai data yang telah tertulis di postgres
 - Terdapat script helper.py untuk menginisiasikan chromerdrivernya
 
 # Setup
