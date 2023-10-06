@@ -1,4 +1,5 @@
 # Tugas Day 20 - Web Scrapping
+- Repository ini merupakan tugas dari dibimbing Day 20 - Web Scrapping
 
 # Setup
 1. Create virtual environment using `pyenv virtualenv <python-version> <env-name>` or `python3 -m venv venv` (the simplest way).
